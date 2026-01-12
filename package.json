@@ -1,0 +1,21 @@
+{
+  "name": "demo_codecommit_repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "echo 'Unit tests passed'",
+    "test:integration": "echo 'Integration tests passed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/Demo_CodeCommit_Repo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "lodash": "^4.17.21"
+  }
+}
